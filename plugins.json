@@ -10238,11 +10238,7 @@
       "description": "Validate VAST, VMAP, and DAAST ad tags against IAB Tech Lab specs via Gemini CLI, Claude Code, and a hosted MCP server",
       "category": "Development & Workflow",
       "source": "awesome-ai-plugins",
-      "install_url": "https://raw.githubusercontent.com/aleksUIX/vastlint/HEAD/.claude-plugin/plugin.json",
-      "platform": "claude-code",
-      "ecosystems": [
-        "claude-code"
-      ]
+      "installation_url": "https://github.com/aleksUIX/vastlint#readme"
     },
     {
       "name": "vibekit",
